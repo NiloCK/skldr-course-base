@@ -13,6 +13,7 @@
   "author": "Colin Kennedy",
   "license": "GPL-3.0",
   "dependencies": {
+    "moment": "^2.18.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-native": "^0.45.1",
