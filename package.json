@@ -2,7 +2,7 @@
   "name": "skldr-course-base",
   "version": "0.0.0",
   "description": "This package contains the required base classes for the creation of Skuilder courses",
-  // "main": "src/BaseClasses.tsx",
+  "//main": "src/BaseClasses.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
