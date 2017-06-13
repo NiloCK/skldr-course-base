@@ -2,7 +2,7 @@
   "name": "skldr-course-base",
   "version": "0.0.0",
   "description": "This package contains the required base classes for the creation of Skuilder courses",
-  "main": "src/BaseClasses.tsx",
+  // "main": "src/BaseClasses.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,6 @@
     "react-native": "^0.45.1",
     "react-native-windows": "^0.45.0-rc.1",
     "reactxp": "^0.42.0-rc.10"
-  }
+  },
+  "types": "dist/BaseClasses.d.ts"
 }
