@@ -9,6 +9,6 @@
         "."
     ],
     "showOutput": "silent",
-    "isBackground": true,
+    "isBackground": false,
     "problemMatcher": "$tsc"
 }
