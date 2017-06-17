@@ -6,7 +6,7 @@ export abstract class Viewable<P extends RX.CommonProps> extends RX.Component<RX
     startTime: Moment.Moment;
     props: P;
 
-    abstract render(): JSX.Element;
+    abstract render(): any;
 
     init(): void {
         this.startTime = Moment();
