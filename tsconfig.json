@@ -16,7 +16,7 @@
       "react"
     ],
     "typeRoots": [
-      "./typings"
+      "node_modules/@types"
     ]
   },
   "typeAcquisition": {
