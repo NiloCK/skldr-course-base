@@ -11,6 +11,12 @@
     "lib": [
       "es5",
       "dom"
+    ],
+    "types": [
+      "react"
+    ],
+    "typeRoots": [
+      "./typings"
     ]
   },
   "typeAcquisition": {
